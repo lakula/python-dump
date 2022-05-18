@@ -38,3 +38,5 @@ elif player1_choice == "scissors":
         print ("You won!")
 else:
     print ("Something went wrong! Try Again")
+
+print ("Good game!")
